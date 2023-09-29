@@ -32,6 +32,6 @@
         the link will be provided by netlify (we can change domain name)
 
 ## Link to access hosted website
-    
+    https://carp0int.netlify.app/
 
 ## QR code to access website is aslo added in this repository
